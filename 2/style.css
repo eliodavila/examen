@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+}
+
+caption {
+    caption-side: bottom;
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 10px;
+}
